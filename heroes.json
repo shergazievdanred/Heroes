@@ -17,18 +17,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "id": "fe96e54d-5e4a-4300-ae71-d9f246697915",
-      "name": "Данияров Эден",
-      "description": "считать до 10",
-      "element": "earth"
-    },
-    {
-      "id": "d9cafbf1-5c60-4754-9a0f-0c4942028553",
-      "name": "Азалия",
-      "description": "ывываыва",
-      "element": "water"
     }
   ],
   "filters": [
