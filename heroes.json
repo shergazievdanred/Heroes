@@ -23,6 +23,12 @@
       "name": "sdf",
       "description": "RETREN",
       "element": "fire"
+    },
+    {
+      "id": "0da9e19b-e294-4cb3-95a6-62c7699608c5",
+      "name": "Азалия",
+      "description": "SADASD",
+      "element": "earth"
     }
   ],
   "filters": [
