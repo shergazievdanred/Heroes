@@ -19,16 +19,22 @@
       "element": "water"
     },
     {
-      "id": "ff678602-fc7d-4551-8012-090f5339dcaf",
-      "name": "sdf",
-      "description": "RETREN",
-      "element": "fire"
-    },
-    {
       "id": "0da9e19b-e294-4cb3-95a6-62c7699608c5",
       "name": "Азалия",
       "description": "SADASD",
       "element": "earth"
+    },
+    {
+      "id": "62a4c12d-6d19-4c91-8554-37ce22b2b312",
+      "name": "Данияров Эден",
+      "description": "dfgsd",
+      "element": "wind"
+    },
+    {
+      "id": "df5d08b0-ee79-4209-a112-851b992b1a0c",
+      "name": "sdf",
+      "description": "dssdf",
+      "element": "fire"
     }
   ],
   "filters": [
